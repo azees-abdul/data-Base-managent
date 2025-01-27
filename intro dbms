@@ -1,0 +1,20 @@
+Dbms 
+
+
+define :specify the data type, structure , constrains for the data to be stored 
+
+constrain meanisn age>= 1i8 only if the condition is full filled peson is eligibkkle to vote this is constrain.
+
+COnstruct -- Process of storing data on some storage medium 
+
+Manipulate- quesaring the data to retrive specific data, updating database and generating reports.
+
+share :  allow multiple users and programs to access the database concurrently(simultinusly).
+
+
+
+Properties: 
+1) represenrt  the some ascpects of real world 
+2)dbms is logically coharent col;ection of the data with some inheent meaning.
+3)a database is designed , built and populated- filled  with data for a specific purpose . 
+
