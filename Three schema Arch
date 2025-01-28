@@ -1,0 +1,23 @@
+Goal  : to separate user application and the physical database
+3 levels 
+Internal level: 
+describes the physical storage structure of the database -- describes the complete etails of stat storage and access paths
+
+
+conceptual level : 
+hides the detaild of the physical storage structure and focuses on describing entities , data types, relationaships , constraints etc
+
+
+External level : 
+describes the part of the data base that a user is intreasted in hides the rest of db 
+
+
+DATA INDEPENDENCE: 
+without data independence if you make any changes to the internal level then u hacve to chage the higher level too . 
+but with data independance the change won't affect the external level 
+
+data independance types 
+logical d Indep: ability to change the conceptual scheme without changing the exteraal schemes or application programs .
+
+physical data independance : ability to modify thre internal scheme without changing the conceptual scheme 
+changes may be needed to improve performance
