@@ -18,3 +18,40 @@ Properties:
 2)dbms is logically coharent col;ection of the data with some inheent meaning.
 3)a database is designed , built and populated- filled  with data for a specific purpose . 
 
+
+data models --
+used to describe the sstructure of the database helps to achieve data abstraction 
+abstraction hiding the uncessisary data to the user 
+
+
+categories of data models 
+high level or conceptual data models 
+provides concepts present data in a way or close in a way many users perceive data 
+Entities--> represent real world object or concept 
+
+Atribute --> further describe an entity . 
+relationships --> association among 2 or more entities 
+
+
+Low level or physical data model :
+descruibes how data is stored in a computer 
+Access path--> structure for efficient searching of database records 
+
+Representational (implementation ) data model
+reprent data in record structure 
+
+
+
+
+Terminology :
+database scheme : description of a database
+scheme: plan / layout / blueprint -- subset of metadata 
+
+Student 
+Name  | rollno | Branch | address 
+Schema construct : 
+Each object within the scheme is called schema construct : ex Student , course
+
+
+Database state ( instance or snapshot) the data on the database or particular moment . 
+
